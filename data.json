@@ -1,0 +1,97 @@
+{
+    "coins": 214734,
+    "gems": 323,
+    "owned_skins": [
+        "default",
+        "sth64",
+        "sth60",
+        "sth55",
+        "sth",
+        "sth56",
+        "fox",
+        "turtle",
+        "spider",
+        "lion",
+        "green",
+        "sth11",
+        "man",
+        "sth3",
+        "sth65",
+        "sth51",
+        "custom",
+        "sth10",
+        "sth12",
+        "sth58",
+        "sth41",
+        "sth7",
+        "sth49",
+        "dino",
+        "sth52",
+        "wolf",
+        "sth5",
+        "sth61",
+        "sth59",
+        "sth54",
+        "sth57",
+        "sth63",
+        "sth62",
+        "sth17",
+        "sth4",
+        "R",
+        "Ri",
+        "Bad boy",
+        "Faster",
+        "Kronlerg",
+        "sth2"
+    ],
+    "selected_skin": "Bad boy",
+    "custom_player": {
+        "color": [
+            0,
+            255,
+            120
+        ],
+        "eye_color": [
+            255,
+            255,
+            255
+        ],
+        "border_color": [
+            0,
+            0,
+            0
+        ]
+    },
+    "audio_toggles": {
+        "zvuky_hry": false,
+        "muzyka": true,
+        "zvuky_menu": false,
+        "spovishchennya": false
+    },
+    "privacy_toggles": {
+        "dvofaktorna": true,
+        "statystyka": false,
+        "pokazuvaty_profil": true
+    },
+    "quality_toggles": {
+        "pelyustky": true,
+        "khmarky": true,
+        "radar": true,
+        "tini": false
+    },
+    "quality_selected": {
+        "yakist": 2,
+        "fps": 2
+    },
+    "kills_stats": {
+        "total": 307,
+        "rare": 81,
+        "epic": 60,
+        "legendary": 111,
+        "gold": 55
+    },
+    "audio_volumes": {
+        "zvuky": 9,
+        "muzyka": 24
+    }
+}
